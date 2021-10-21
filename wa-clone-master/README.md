@@ -24,14 +24,14 @@
 ### Google SignIn:-
 
 <br>
-<img src="Screenshots/Screenshot (488).png" alt="Smiley face" width = "700"  height = "400">
+<img src="Screenshots/s1.png" alt="Smiley face" width = "700"  height = "400">
 
 ### Chat feature
 
 <br>
-<img src="Screenshots/Screenshot (487).png" alt="Smiley face" width = "700"  height = "400">
+<img src="Screenshots/s2.png" alt="Smiley face" width = "700"  height = "400">
 
 ### Adding rooms
 
 <br>
-<img src="Screenshots/Screenshot (486).png" alt="Smiley face" width = "700"  height = "400">
+<img src="Screenshots/s3.png" alt="Smiley face" width = "700"  height = "400">
